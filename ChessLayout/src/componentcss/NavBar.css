@@ -1,0 +1,12 @@
+.sticky-nav {
+    position: sticky;
+    top: 0;
+  }
+
+.navText {
+    color: white;
+  }
+
+  html {
+    scroll-padding-top: 4rem;
+  }
